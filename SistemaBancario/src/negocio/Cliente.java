@@ -20,6 +20,10 @@ public class Cliente {
 		this.ativo = ativo;
 	}
 
+	public Cliente(int idCliente, String nomeCliente, int idadeCliente, boolean b) {
+		// TODO Auto-generated constructor stub
+	}
+
 	/**
 	 * Método que retorna o ID do cliente. 
 	 * @return ID do cliente

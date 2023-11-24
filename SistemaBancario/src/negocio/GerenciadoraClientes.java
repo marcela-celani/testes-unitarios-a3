@@ -10,6 +10,10 @@ public class GerenciadoraClientes {
 		this.clientesDoBanco = clientesDoBanco;
 	}
 	
+	public GerenciadoraClientes() {
+		// TODO Auto-generated constructor stub
+	}
+
 	/**
 	 * Retorna uma lista com todos os clientes do banco.
 	 * @return lista com todos os clientes do banco
