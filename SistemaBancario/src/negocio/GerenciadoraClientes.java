@@ -44,6 +44,7 @@ public class GerenciadoraClientes {
 		clientesDoBanco.add(novoCliente);
 	}
 
+
 	/**
 	 * Remove cliente da lista de clientes do banco.
 	 * @param idCliente ID do cliente a ser removido 
@@ -102,5 +103,8 @@ public class GerenciadoraClientes {
 		
 		return true;
 	}
+
+
+	
 	
 }
